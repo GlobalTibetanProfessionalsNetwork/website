@@ -1,0 +1,5 @@
+
+[![Email](../assets/email_icon.png){width=100}](#) 
+<!-- Insert GTPN official email here -->
+[![Instagram](../assets/instagram_icon.png){width=100}](https://www.instagram.com/gtpn_na/)
+<!-- [![Linkedin](assets/linkedin_icon.png){width=100}](#) Add GTPN linkedin -->
